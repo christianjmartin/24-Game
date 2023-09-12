@@ -1,7 +1,7 @@
 INSTALLATION: 
 
       - Make sure you have an enviornment on your local machine that is able to compile and run C.
-      - Open a new workspace and create four files, and copy and paste the content into them from the files above in which share the same name:
+      - Open a new workspace and create four files, and copy and paste the content into them from the files above in which share the same name
           1. main.c (C source code file)
           2. easy.txt (text file for easy mode)
           3. medium.txt (text file for medium mode)
